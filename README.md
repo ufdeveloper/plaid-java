@@ -1,3 +1,8 @@
+Spring support for the plaid-java API
+=====================================
+
+This project is aimed at adding Spring support to the plaid-java API.
+
 plaid-java
 ==========
 
